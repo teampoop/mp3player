@@ -1,0 +1,6 @@
+name = Filefield MP3 Player Formatter
+description = "Formats an MP3 file into the MP3 Player."
+dependencies[] = mp3player_reduex
+package = CCK
+core = 7.x
+

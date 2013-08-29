@@ -1,0 +1,5 @@
+name = MP3player reduex
+description = "A module to integrate the 1pixelout player into Drupal."
+core = 7.x
+package = Audio
+
